@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Direct Preference Optimization (DPO): Teaching Models What We Actually Want
 
 After you've fine-tuned your language model with instructions, you might notice something: while it follows instructions reasonably well, it doesn't always generate responses in the style or tone you prefer. Maybe it's too verbose, or not helpful enough, or just doesn't quite capture the nuanced way you want it to respond. This is where **Direct Preference Optimization (DPO)** comes in – a remarkably elegant way to teach your model not just what to do, but how to do it in the way humans actually prefer.[^1]

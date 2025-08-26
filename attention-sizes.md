@@ -1,7 +1,3 @@
-# In this book, when it is explaining causal attention, can you give me a good guide of the sizes of the matrices at each step of the implementation. For example, what is the size of the W\_q matrix and what is the size of Z (the context matrix)?
-
-Based on the information from transformer implementations and the matrix dimensions typically used in causal attention, I'll provide you with a comprehensive guide to the matrix sizes at each step of the causal attention implementation.
-
 # Matrix Dimensions Guide for Causal Attention Implementation
 
 Let me walk you through the sizes of each matrix at every step, using common notation and dimensions.

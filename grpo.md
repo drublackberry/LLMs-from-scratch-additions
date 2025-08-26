@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Group Relative Policy Optimization (GRPO): The Elegant Solution to RLHF's Complexity
 
 Imagine you're teaching a student to solve math problems. With traditional RLHF/PPO, you'd need two teachers: one to assign homework (the policy model) and another to grade every single step along the way (the critic/value model). This is expensive and complicated. What if instead, you gave the student several attempts at the same problem, then simply compared how well they did relative to each other? That's exactly what **Group Relative Policy Optimization (GRPO)** does – and it's the secret behind DeepSeek-R1's remarkable reasoning abilities.[^1][^2]

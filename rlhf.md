@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Reinforcement Learning from Human Feedback (RLHF): Training Models to Actually Be Helpful
 
 Imagine you've just finished instruction fine-tuning your language model. It can follow instructions reasonably well, but something feels off. Sometimes it's too verbose, other times it gives technically correct but unhelpful responses. It follows the letter of the instruction but misses the spirit of what humans actually want. This is where **Reinforcement Learning from Human Feedback (RLHF)** comes in – the technique that transformed models like GPT-3 into the conversational AI powerhouse that is ChatGPT.[^1][^2]
